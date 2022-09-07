@@ -7,8 +7,8 @@
     "type": "git",
     "url": "git://github.com/form-data/form-data.git"
   },
-  "main": "./lib/form_data",
-  "browser": "./lib/browser",
+  "main": "./lib/form_data.js",
+  "browser": "./lib/browser.js",
   "typings": "./index.d.ts",
   "scripts": {
     "pretest": "rimraf coverage test/tmp",
